@@ -1,0 +1,20 @@
+{
+  "name": "track-star-json-server",
+  "version": "1.0.0",
+  "description": "Create a repo for standing up a quick json-server instance on https://my-json-server.typicode.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gthmb/track-star-json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gthmb/track-star-json-server/issues"
+  },
+  "homepage": "https://github.com/gthmb/track-star-json-server#readme"
+}
