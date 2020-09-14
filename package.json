@@ -4,7 +4,7 @@
   "description": "Create a repo for standing up a quick json-server instance on https://my-json-server.typicode.com/",
   "main": "index.js",
   "scripts": {
-    "start": "yarn json-server db.json"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
