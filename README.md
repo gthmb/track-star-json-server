@@ -2,3 +2,5 @@ Create a repo for standing up a quick json-server instance on https://my-json-se
 
 This DB should be available at:
 http://my-json-server.typicode.com/gthmb/track-star-json-server
+
+Updated to be hosted on a free plan at Heroku.
